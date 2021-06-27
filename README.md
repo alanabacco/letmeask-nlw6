@@ -10,9 +10,10 @@ O projeto Let Me Ask foi criado durante a [Next Level Week 6](https://nextlevelw
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   [React](https://pt-br.reactjs.org/)
+-   [Reactjs](https://pt-br.reactjs.org/)
 -   [TypeScript](https://www.typescriptlang.org/)
-<!-- -   [Styled Components](https://styled-components.com/) -->
+-   [SASS](https://sass-lang.com/)
+-   [Firebase](https://firebase.google.com/?hl=pt)
 
 ---
 
