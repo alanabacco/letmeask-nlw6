@@ -2,7 +2,26 @@
 
 ## 💻 Sobre o projeto
 
-O projeto Let Me Ask foi criado durante a [Next Level Week 6](https://nextlevelweek.com/inscricao/6) da [Rocketseat](https://rocketseat.com.br/).
+O projeto Let Me Ask foi criado durante a [Next Level Week 6](https://nextlevelweek.com/inscricao/6) da [Rocketseat](https://rocketseat.com.br/). O objetivo era desenvolver uma aplicação que permite a criação de salas de perguntas.
+
+🌐 [Página do Projeto](https://letmeask-29bf0.web.app/)
+
+---
+
+## 🖼️ Imagens
+
+<div align="center">
+  <img alt="Gif com as telas do projeto" src="src/assets/images/gifletmeask.gif" width="100%">
+</div>
+
+---
+
+## Funcionalidades
+
+- Tela de login;
+- Tela de criação de sala;
+- Tela de perguntas e
+- Tela de administrador da sala.
 
 ---
 
@@ -14,6 +33,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   [TypeScript](https://www.typescriptlang.org/)
 -   [SASS](https://sass-lang.com/)
 -   [Firebase](https://firebase.google.com/?hl=pt)
+
+---
+
+🌐 [Ver a página do Projeto](https://letmeask-29bf0.web.app/)
 
 ---
 
